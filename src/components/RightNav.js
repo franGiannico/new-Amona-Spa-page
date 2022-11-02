@@ -40,8 +40,8 @@ const RightNav = ({ open }) => {
           </span> 
               <ul>
                   <li><NavLink to="/" exact="true">Inicio</NavLink></li>
-                  <li><NavLink to="/quienesSomos" exact="true">¿Quienes somos?</NavLink></li>
                   <li><NavLink to="/actividades" exact="true">Actividades</NavLink></li>
+                  <li><NavLink to="/quienesSomos" exact="true">¿Quienes somos?</NavLink></li>
                   <li><NavLink to="/contacto" exact="true">Contacto</NavLink></li>
               </ul>
         </nav> 

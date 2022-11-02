@@ -5,8 +5,8 @@ import LogoInicio from "./LogoInicio"
 const Header = ({ open }) => {
 
     return (
-        <header className="main-header" open={open} >                                 
-            <div className="content-wrapper">
+        <header className="" open={open} >                                 
+            <div className="">
                 <LogoInicio/>          
                 <Burger/>      
                 <RightNav/>                       
