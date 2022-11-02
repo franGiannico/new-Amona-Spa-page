@@ -8,7 +8,7 @@ const Banner = () => {
                     <h1 className="title">Bienvenidos a Amona Spa</h1>
                     <p className="subtitle">Tu lugar de relajación, salud y armonía interior</p>
                     <div>
-                        <a className="" href="#" >Reservá tu turno</a>
+                        <a className="" NavLink="#" >Reservá tu turno</a>
                     </div>
                 </div>
                 <div className="">
