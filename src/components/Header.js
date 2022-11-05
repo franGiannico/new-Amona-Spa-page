@@ -7,7 +7,7 @@ const Header = ({ open }) => {
     return (
         <header className="" open={open} >                                 
             <div className="">
-                <LogoInicio value={"/imágenes amona/logo.png"}/>          
+                <LogoInicio value={"/imágenes/logo.png"}/>          
                 <Burger/>      
                 <RightNav/>                       
             </div>
