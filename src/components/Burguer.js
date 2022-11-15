@@ -27,7 +27,7 @@ const Burger = () => {
     </>
   )
 }
-{/* <>
+/* <>
   <a class="btn btn-primary" data-bs-toggle="offcanvas" href="/" role="button" aria-controls="offcanvasExample">
     Link with href
   </a>
@@ -51,6 +51,6 @@ const Burger = () => {
   </div>
 </>
   )
-} */}
+} */
 
 export default Burger
