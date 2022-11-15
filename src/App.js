@@ -4,13 +4,11 @@ import Activities from './Pages/Activities';
 import AboutUs from './Pages/AboutUs';
 import Contact from './Pages/Contact';
 import Home from './Pages/Home';
-
 import { 
   BrowserRouter as Router,
   Route,
   Routes
 } from "react-router-dom";
-import Banner from './components/Banner';
 
 function App() {
   return (

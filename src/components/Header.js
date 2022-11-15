@@ -1,6 +1,6 @@
 
 import React from "react"
-// import Burger from "./Burguer"
+import Burger from "./Burguer"
 import RightNav from "./RightNav"
 import Logo from "./Logo"
 import logoAmona from ".//images/logoAmona.png"
@@ -11,8 +11,8 @@ const Header = () => {
     return (                                        
         <div className="navbar navbar-expand-lg bg-light">
             <Logo value={logoAmona}/>                          
-            {/* <Burger/>
-            <OffCanvas/>  */}
+            <Burger/>
+            {/* <OffCanvas/>  */}
             <RightNav/>
         </div>
 
