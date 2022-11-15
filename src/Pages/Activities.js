@@ -13,7 +13,7 @@ const Activities = () => {
                     <div>
                         <h3>Gimnasia para adultos</h3>
                         <p>Clases semanales, lunes, miercoles y viernes a las 18hs.</p>
-                        <a href="https://www.instagram.com/p/CKRX2bEAOeT/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CKRX2bEAOeT/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
                 <article class="card-project">
@@ -23,7 +23,7 @@ const Activities = () => {
                     <div>
                         <h3>Depilación definitiva</h3>
                         <p>Método Soprano Ice Platinum. Sólo con turnos</p>
-                        <a href="https://www.instagram.com/p/CJwIe5-ADrC/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CJwIe5-ADrC/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
                 <article class="card-project">
@@ -33,7 +33,7 @@ const Activities = () => {
                     <div>
                         <h3>Tecarterapia</h3>
                         <p>Tratamiento de reducción y modelación.</p>
-                        <a href="https://www.instagram.com/p/CObDQ1pnuO-/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CObDQ1pnuO-/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
                 <article class="card-project">
@@ -43,7 +43,7 @@ const Activities = () => {
                     <div>
                         <h3>Taller de Reiki</h3>
                         <p>Armonización y Reiki</p>
-                        <a href="https://www.instagram.com/p/CFHnzKOgodG/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CFHnzKOgodG/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
                 <article class="card-project">
@@ -53,7 +53,7 @@ const Activities = () => {
                     <div>
                         <h3>Taller "Habitar el cuerpo"</h3>
                         <p>Taller especial que consiste en descubrir el cuerpo y conectar con el mismo.</p>
-                        <a href="https://www.instagram.com/p/CNqU7rjH4uD/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CNqU7rjH4uD/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
                 <article class="card-project">
@@ -63,7 +63,7 @@ const Activities = () => {
                     <div>
                         <h3>Pilates"</h3>
                         <p>Clases semanales, lunes, miercoles y viernes a las 15hs.</p>
-                        <a href="https://www.instagram.com/p/CNDRHMaHN1q/" target="_blank">Ver actividad</a>
+                        <a href="https://www.instagram.com/p/CNDRHMaHN1q/" target="_blank" rel="noopener noreferrer">Ver actividad</a>
                     </div>
                 </article>
             </div>
