@@ -1,3 +1,4 @@
+import React from 'react'
 // import React, { useState } from 'react';
 // import RightNav from './RightNav';
 
@@ -27,7 +28,7 @@ const Burger = () => {
 //   )
 // }
 <>
-  <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+  <a class="btn btn-primary" data-bs-toggle="offcanvas" href="/" role="button" aria-controls="offcanvasExample">
     Link with href
   </a>
    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
@@ -41,9 +42,9 @@ const Burger = () => {
       </div>
       <div>
         <ul>
-          <li><a class="dropdown-item" href="#">Action</a></li>
-          <li><a class="dropdown-item" href="#">Another action</a></li>
-          <li><a class="dropdown-item" href="#">Something else here</a></li>
+          <li><a class="dropdown-item" href="/">Action</a></li>
+          <li><a class="dropdown-item" href="/">Another action</a></li>
+          <li><a class="dropdown-item" href="/">Something else here</a></li>
         </ul>
       </div>
     </div>

@@ -1,3 +1,5 @@
+import React from "react"
+
 const Logo = ({value}) => {
     return (
         <nav className="navbar bg-light">
